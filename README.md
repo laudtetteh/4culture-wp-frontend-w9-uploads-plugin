@@ -1,4 +1,4 @@
-# 4culture-wp-frontend-w9-uploads
+# 4culture-wp-frontend-w9-uploads-plugin
 Handles frontend W9 file uploads
 
 Frontend: This plugin handles w9 uploads on the 4Culture website (https://www.4culture.org/grants-artist-calls/w-9-upload).
